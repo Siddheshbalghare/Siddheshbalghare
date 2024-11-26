@@ -1,6 +1,8 @@
+![logo](https://avatars.githubusercontent.com/u/98033403?v=4)
 <h1 align="center">Hi 👋, I'm Siddhesh Balghare</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://avatars.githubusercontent.com/u/98033403?v=4" alt="SidBalghare"></img>
+<img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/98033403?v=4">
+
 - 🌱 I’m currently learning **Full Stack Java Development**
 
 - 👨‍💻 All of my projects are available at [https://genuine-belekoy-64e1c2.netlify.app/](https://genuine-belekoy-64e1c2.netlify.app/)
