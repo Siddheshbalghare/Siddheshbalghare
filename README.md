@@ -1,4 +1,4 @@
-![logo]("https://www.canva.com/design/DAGXmGVzudI/shtivagCtlX-K2z4Zi6AiA/edit?utm_content=DAGXmGVzudI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
+![logo](https://github.com/Siddheshbalghare/Siddheshbalghare/blob/main/gitSid.png)
 <h1 align="center">Hi 👋, I'm Siddhesh Balghare</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/98033403?v=4">
