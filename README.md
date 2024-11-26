@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Balghare</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img src="https://files.oaiusercontent.com/file-Jf68taigbjeue1C4R9Bpga?se=2024-11-26T15%3A48%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8b9bcd70-0018-41ad-9c50-efd6028a6be5.webp&sig=9Fdoo/K7beWvpzoge64ON1rglTG08d0L5JZNfcygQ6A%3D" alt="SidBalghare"></img>
 - 🌱 I’m currently learning **Full Stack Java Development**
 
 - 👨‍💻 All of my projects are available at [https://genuine-belekoy-64e1c2.netlify.app/](https://genuine-belekoy-64e1c2.netlify.app/)
