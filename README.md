@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/siddhesh-balghare-157023236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-balghare" height="30" width="40" /></a>
 <a href="https://fb.com/siddhesh balghare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhesh balghare" height="30" width="40" /></a>
-<a href="https://instagram.com/siddhesh balghare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhesh balghare" height="30" width="40" /></a>
+<a href="[https://instagram.com/siddhesh balghare](https://www.instagram.com/siddhesh.balghare.56?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhesh balghare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
