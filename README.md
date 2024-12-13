@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://genuine-belekoy-64e1c2.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio]('https://siddheshbalghare.netlify.app/')
 
 - 📫 How to reach me **balgharesiddhesh@gmail.com**
 
